@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/graphitexhd/Test/issues"
   },
-  "homepage": "https://github.com/graphitexhd/Test#readme"
+  "homepage": "https://github.com/graphitexhd/Test#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

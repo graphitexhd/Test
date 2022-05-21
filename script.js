@@ -1,3 +1,5 @@
+var _ = require('lodash');
+console.log(_)
 const colour1 = document.querySelector(".colour1");
 const colour2 = document.querySelector(".colour2");
 const colour3 = document.querySelector(".colour3");
